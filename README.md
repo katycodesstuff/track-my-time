@@ -12,7 +12,7 @@ This was created in around 2-3 hours.
 - View when the number was last updated.
 - Enter the time either in decimal format e.g. 40.5, or in HH:MM format e.g. 40:30
 - You cannot enter multiple values for the same week
-- Error handling shows a message if validation does not occur
+- Error handling shows a message if validation does not pass
 - Data is stored in a plaintext file
 - Data saves on exit
 
