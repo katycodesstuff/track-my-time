@@ -23,3 +23,4 @@ This was created in around 2-3 hours.
 - Allow deletion of last entered date
 - Allow customisation of your weekly hours
 - Save every time value is added
+- Add ability to subtract TOIL taken
